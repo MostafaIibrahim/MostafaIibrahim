@@ -1,6 +1,6 @@
 # Hi, I'm Mustafa 👋
 
-I'm a **Junior Software Engineer** with a good foundation in **C++** and **Android development (Kotlin / Java)**.  
+I'm a **Software Engineer** with a good foundation in **C++** and **Android development (Kotlin / Java)**.  
 I’m still learning, but I care deeply about **writing correct code**, understanding fundamentals, and improving every day.
 
 ---
